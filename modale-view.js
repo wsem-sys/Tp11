@@ -1,4 +1,4 @@
-// modale-view.js
+// fais par wsem
 
 /**
  * Composant Web simple pour gérer une modale.
@@ -68,4 +68,3 @@ class ModaleView extends HTMLElement {
       console.error("La modale avec l'ID " + id + " est introuvable ou ne dispose pas d'une méthode close().");
     }
   }
-  
