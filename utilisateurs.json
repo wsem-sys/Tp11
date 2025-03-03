@@ -1,0 +1,69 @@
+{
+  "utilisateurs": [
+    {
+      "id": "1",
+      "nom": "Khlifi",
+      "prenom": "Wissem DR hardware/Software",
+      "dateNaissance": "1997-06-02",
+      "lieuNaissance": "Nimes",
+      "departementNaissance": "30",
+      "numeroRue": "296",
+      "libelleRue": "Chemin de campoussin",
+      "codePostal": "30490",
+      "ville": "Montfrin",
+      "idCreateur": "khlifi Wissem le supa saiyajin Dr stone"
+    },
+    {
+      "id": "2",
+      "nom": "ishigami",
+      "prenom": "Senku",
+      "dateNaissance": "1997-06-02",
+      "lieuNaissance": "Japon",
+      "departementNaissance": "30",
+      "numeroRue": "2",
+      "libelleRue": "Chemin de campoussin",
+      "codePostal": "30000",
+      "ville": "Nimes",
+      "idCreateur": "khlifi Wissem le supa saiyajin Dr stone"
+    },
+    {
+      "id": "e67c",
+      "nom": "Luffy",
+      "prenom": "Luffy",
+      "dateNaissance": "1997-06-02",
+      "lieuNaissance": "Nimes",
+      "departementNaissance": "30",
+      "numeroRue": "296",
+      "libelleRue": "chemin de campoussin",
+      "codePostal": "30490",
+      "ville": "Montfrin",
+      "idCreateur": "khlifi Wissem le supa saiyajin Dr stone"
+    },
+    {
+      "id": "b436",
+      "nom": "yu",
+      "prenom": "yuk",
+      "dateNaissance": "2025-03-12",
+      "lieuNaissance": "Nimes",
+      "departementNaissance": "30",
+      "numeroRue": "296",
+      "libelleRue": "chemin de campoussin",
+      "codePostal": "30490",
+      "ville": "Montfrin",
+      "idCreateur": "khlifi Wissem le supa saiyajin Dr stone"
+    },
+    {
+      "id": "3e92",
+      "nom": "FHI",
+      "prenom": "ZEDI",
+      "dateNaissance": "2025-03-14",
+      "lieuNaissance": "EZF",
+      "departementNaissance": "ZEF",
+      "numeroRue": "216",
+      "libelleRue": "dfz",
+      "codePostal": "030",
+      "ville": "sdf",
+      "idCreateur": "khlifi Wissem le supa saiyajin Dr stone"
+    }
+  ]
+}
